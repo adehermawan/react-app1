@@ -1,0 +1,25 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "my first react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adehermawan/react-app1.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "adehermawan.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adehermawan/react-app1/issues"
+  },
+  "homepage": "https://github.com/adehermawan/react-app1#readme",
+  "dependencies": {
+    "webpack": "^3.3.0"
+  }
+}
